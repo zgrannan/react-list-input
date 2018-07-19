@@ -1,6 +1,7 @@
 import R from 'ramda'
 import autobind from 'autobind-decorator'
-import React, { PropTypes } from 'react'
+import PropTypes from 'prop-types'
+import React from 'react'
 import { debounce } from 'lodash'
 
 import genKey from './genKey'
