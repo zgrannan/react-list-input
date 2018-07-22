@@ -19,7 +19,7 @@
     "autobind-decorator": "^1.3.4",
     "prop-types": "15.6.2",
     "ramda": "^0.23.0",
-    "react-drag-sort": "git://github.com/zgrannan/react-drag-sort.git#ccc5433172a4742fe9c20e383d9652220c19144b"
+    "react-drag-sort": "^2.1.1"
   },
   "peerDependencies": {
     "react": ""
